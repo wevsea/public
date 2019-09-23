@@ -1,3 +1,8 @@
 [다운로드]
 https://www.atlassian.com/ko/software/jira/download
 
+https://www.atlassian.com/purchase/product/jira-software
+1. Server
+2. 10 users
+3. 없음
+4. 12 months
